@@ -378,7 +378,7 @@ footer {
     }
 }
 
-@media (min-width:1024px) {
+@media (min-width:1200px) {
     header {
         nav {
             margin-inline: 150px;
